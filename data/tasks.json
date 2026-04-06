@@ -28,6 +28,18 @@
       "createdAt": "2026-04-06T13:12:00Z",
       "processingStartedAt": "2026-04-06T13:43:00Z",
       "completedAt": "2026-04-06T13:44:00Z"
+    },
+    {
+      "id": "test_001",
+      "title": "🧪 Webhook Test — Verify task sync",
+      "description": "This is a test task to verify the GitHub webhook is working. If you see this, the webhook successfully triggered OpenClaw!",
+      "status": "backlog",
+      "project": "test",
+      "tags": ["test", "webhook"],
+      "subtasks": [],
+      "priority": "high",
+      "comments": [],
+      "createdAt": "2026-04-06T13:40:00Z"
     }
   ]
 }
